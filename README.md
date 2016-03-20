@@ -43,3 +43,5 @@ Routes are defined in app/routes with a filename matching their route name.
 Service are long-living objects (aka, "singletons") that areavailable throughout your app.
 - To generate a service we can use:
 - ember generate route <service-name>
+
+#### Actions in Ember
